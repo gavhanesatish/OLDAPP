@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{9E9A4BA9-6133-421C-8CBE-A4A4D375EEB9}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CAD83C4-F112-4E73-B659-E4A9A463EB02}"
+	ProjectSection(SolutionItems) = preProject
+		Array.html = Array.html
+		Array.js = Array.js
+		concat.html = concat.html
+		docform.js = docform.js
+		docx.html = docx.html
+		docx.js = docx.js
+		Experiment.html = Experiment.html
+		Experiment.js = Experiment.js
+		fncon.html = fncon.html
+		fncon.js = fncon.js
+		form1.html = form1.html
+		form1.js = form1.js
+		function.html = function.html
+		function.js = function.js
+		index.html = index.html
+		list.js = list.js
+		minmax.html = minmax.html
+		minmax.js = minmax.js
+		object.html = object.html
+		object.js = object.js
+		object1.html = object1.html
+		object1.js = object1.js
+		personal.html = personal.html
+		personal.js = personal.js
+		reverse.html = reverse.html
+		reverse.js = reverse.js
+		split.html = split.html
+		split.js = split.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{90AD7FD4-0533-49C6-BDA6-F030B0D57933}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{C815D548-D2F8-4CBC-A0E1-311A124902E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{19ACDD7B-9C45-498B-836A-E6A0ACD46ED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{801EA0C6-DC9F-407B-91A3-CEBEFC547D0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{3308C099-29A8-4735-B766-1447024EA607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{15E88B92-4907-419A-B74F-1C15031A42D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder4", "NewFolder4", "{A697648A-A911-4784-8E1E-26BB726027C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder5", "NewFolder5", "{634271F3-8363-4E24-9BC2-104F8D74698C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder6", "NewFolder6", "{A6345FB5-DA3C-455C-BBF7-78917B65ED1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder7", "NewFolder7", "{778A9ADE-B39F-44C5-A5EF-3E6066A5BF6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder8", "NewFolder8", "{FB7865F8-E13F-4574-816A-7D82B069B330}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90AD7FD4-0533-49C6-BDA6-F030B0D57933} = {9E9A4BA9-6133-421C-8CBE-A4A4D375EEB9}
+		{C815D548-D2F8-4CBC-A0E1-311A124902E9} = {90AD7FD4-0533-49C6-BDA6-F030B0D57933}
+		{19ACDD7B-9C45-498B-836A-E6A0ACD46ED4} = {C815D548-D2F8-4CBC-A0E1-311A124902E9}
+		{801EA0C6-DC9F-407B-91A3-CEBEFC547D0F} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{3308C099-29A8-4735-B766-1447024EA607} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{15E88B92-4907-419A-B74F-1C15031A42D7} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{A697648A-A911-4784-8E1E-26BB726027C2} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{634271F3-8363-4E24-9BC2-104F8D74698C} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{A6345FB5-DA3C-455C-BBF7-78917B65ED1D} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{778A9ADE-B39F-44C5-A5EF-3E6066A5BF6B} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+		{FB7865F8-E13F-4574-816A-7D82B069B330} = {6CAD83C4-F112-4E73-B659-E4A9A463EB02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364CFD82-A96E-4B7E-BF73-2CC39659D643}
+	EndGlobalSection
+EndGlobal
